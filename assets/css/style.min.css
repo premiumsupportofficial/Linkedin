@@ -28,3 +28,8 @@
 .padded-content {
   padding: 20px; /* Adjust the pixel value as necessary */
 }
+
+.sentence-gap {
+  margin-bottom: 8px; /* Adjust the pixel value based on desired spacing */
+}
+
