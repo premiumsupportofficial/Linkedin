@@ -43,3 +43,12 @@
   display: block; /* Makes strong behave like a paragraph heading */
   margin-top: 15px; /* Adds space above each new benefit heading */
 }
+
+.video-container {
+    display: flex;
+    justify-content: center; /* Centers the video horizontally */
+    align-items: center; /* Optional: Centers the video vertically if needed */
+    margin-top: 20px; /* Adds space above the video */
+    margin-bottom: 20px; /* Adds space below the video */
+}
+
